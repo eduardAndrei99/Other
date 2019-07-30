@@ -1,0 +1,10 @@
+﻿  agenda.cpp
+  main.cpp
+  teste.cpp
+  Ui.cpp
+c:\users\edy\documents\github\other\proiectapeluri\proiectapeluri\ui.cpp(53): warning C4018: '>': signed/unsigned mismatch
+c:\users\edy\documents\github\other\proiectapeluri\proiectapeluri\ui.cpp(72): warning C4018: '>': signed/unsigned mismatch
+c:\users\edy\documents\github\other\proiectapeluri\proiectapeluri\ui.cpp(105): warning C4018: '>': signed/unsigned mismatch
+c:\users\edy\documents\github\other\proiectapeluri\proiectapeluri\ui.cpp(138): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+  ProiectApeluri.vcxproj -> C:\Users\Edy\Documents\GitHub\Other\ProiectApeluri\Debug\ProiectApeluri.exe
